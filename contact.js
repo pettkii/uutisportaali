@@ -1,0 +1,2 @@
+/* Sisältää logiikan yhteydenottolomakkeen käsittelyyn.
+*/
